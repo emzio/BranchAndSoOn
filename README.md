@@ -1,3 +1,3 @@
 # BranchAndSoOn
 Brancch Training
-nowy inny
+nowy innyconflict
